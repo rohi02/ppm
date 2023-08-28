@@ -1,0 +1,19 @@
+.container {
+    margin: auto;
+    width: 60%;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    margin-top: 7cm;
+    margin-left: 9cm;
+    text-align: center;
+    color: white;
+    
+  }
+
+body {
+    background-color: rgb(127, 215, 219);
+  }
+.container{
+    background-color: rgb(233, 165, 152);
+  }
